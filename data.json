@@ -1,0 +1,121 @@
+[
+    {
+        "name": "基隆",
+        "weather": "多雲",
+        "temperature": "26C",
+        "moisture": "70%",
+        "rainfall": "14%"
+    },
+    {
+        "name": "台北",
+        "weather": "多雲",
+        "temperature": "27C",
+        "moisture": "62%",
+        "rainfall": "17%"
+    },
+    {
+        "name": "新竹",
+        "weather": "局部有雲",
+        "temperature": "28C",
+        "moisture": "57%%",
+        "rainfall": "1%"
+    },
+    {
+        "name": "台中",
+        "weather": "晴",
+        "temperature": "23C",
+        "moisture": "83%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "台南",
+        "weather": "局部有雲",
+        "temperature": "29C",
+        "moisture": "61%",
+        "rainfall": "1%"
+    },
+    {
+        "name": "南投",
+        "weather": "晴多雲",
+        "temperature": "29C",
+        "moisture": "58%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "高雄",
+        "weather": "晴",
+        "temperature": "27C",
+        "moisture": "76%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "台東",
+        "weather": "局部有雲",
+        "temperature": "26C",
+        "moisture": "70%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "花蓮",
+        "weather": "局部有雲",
+        "temperature": "24C",
+        "moisture": "81%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "宜蘭",
+        "weather": "多雲",
+        "temperature": "24C",
+        "moisture": "79%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "澎湖",
+        "weather": "晴",
+        "temperature": "25C",
+        "moisture": "78%",
+        "rainfall": "5%"
+    },
+    {
+        "name": "金門",
+        "weather": "晴",
+        "temperature": "26C",
+        "moisture": "70%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "媽祖",
+        "weather": "晴",
+        "temperature": "21C",
+        "moisture": "71%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "恆春",
+        "weather": "晴",
+        "temperature": "26C",
+        "moisture": "71%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "東沙",
+        "weather": "晴",
+        "temperature": "26C",
+        "moisture": "84%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "南沙",
+        "weather": "晴",
+        "temperature": "26C",
+        "moisture": "72%",
+        "rainfall": "0%"
+    },
+    {
+        "name": "新竹",
+        "weather": "晴朗偶有雲",
+        "temperature": "25C",
+        "moisture": "68%",
+        "rainfall": "0%"
+    },
+]
